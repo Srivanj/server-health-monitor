@@ -17,3 +17,4 @@ print(f"Monitoring check time: {datetime.datetime.now()}")
 check_cpu_usage()
 
 print("Server monitoring script executed successfully")
+print("CPU monitoring feature enabled")
